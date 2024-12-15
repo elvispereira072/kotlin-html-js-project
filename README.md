@@ -1,10 +1,18 @@
-# Projeto Kotlin + HTML + JavaScript
+# Estudo de Front-End e Kotlin
 
-Este é um projeto onde estou aprendendo as tecnologias Kotlin, HTML e JavaScript. 
-Aqui estão os principais arquivos:
+Este repositório contém exemplos de estudos em **JavaScript**, **Kotlin** e **Tailwind CSS**.
 
-- **index.html**: Um arquivo HTML com Tailwind CSS.
-- **script.js**: Código JavaScript que interage com o HTML.
-- **kotlin.kt**: Código Kotlin para estudos.
+## Objetivo
 
-O projeto foi desenvolvido como parte do meu estudo para me preparar para futuras oportunidades.
+O objetivo deste repositório é mostrar meu progresso no aprendizado de tecnologias front-end e back-end:
+
+- **HTML** com **Tailwind CSS** para design responsivo.
+- **JavaScript** para interatividade e lógica no navegador.
+- **Kotlin** para explorar como a linguagem pode ser usada em diferentes contextos (como Android e back-end).
+
+## Estrutura dos arquivos
+
+- `index.html`: Arquivo HTML com o layout básico usando Tailwind CSS.
+- `script.js`: Arquivo JavaScript para interação com o usuário.
+- `kotlin.kt`: Arquivo Kotlin (ainda não compilado para uso no navegador, mas importante para mostrar o estudo da linguagem).
+
